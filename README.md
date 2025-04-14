@@ -22,7 +22,7 @@
 
 ### 🚀 Linguagens e Tecnologias
 
-<div>
+<div style="display: inline_block">
   <img 
       align="left" 
       alt="Java"
