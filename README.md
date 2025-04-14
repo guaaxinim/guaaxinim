@@ -20,7 +20,7 @@
   />
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 🚀 Linguagens e Tecnologias
 
