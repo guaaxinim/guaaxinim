@@ -1,35 +1,36 @@
-# 👨‍💻 Rodrigo Oliveira
+# 🇧🇷 Rodrigo Oliveira
 
-**`Desenvolvedor FullStack`**
+♟️ **`Desenvolvedor FullStack`**
 
-👋 Olá! Meu nome é Luiz Rodrigo Oliveira Lima, mas pode me chamar só de Rodrigo! Tenho 19 anos e sou de Salvador (BA) 🏖️ <br/><br/> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Sou bastante criativo e apaixonado por tecnologia, você pode encontrar fragmentos dessa minha paixão analisando [meus repositórios](https://github.com/guaaxinim?tab=repositories) aqui no Github! <br/><br/> 🌐 Quer me conhecer melhor? <br/>
+### 📊 Estatísticas
 
-<p align="left">
-    <a href="https://www.instagram.com/rodrigoo_dev/" target="_blank">
-        <img 
-            alt="Perfil do Instagram" 
-            title="Siga-me no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Siga%20me-CE4630?logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/rodrigo-oliveira-470668314/" target="_blank">
-        <img 
-            alt="Perfil do LinkedIn" 
-            title="Conect-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"
-        />
-    </a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=guaaxinim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaxinim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+
 </p>
 
----
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 🚀 Linguagens e Tecnologias
 
 
 <img 
     align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -99,25 +100,28 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/><br/>
+
+---
+
 <br/>
-<br/>
 
-### 📊 Estatísticas
+👋 Olá! Meu nome é Luiz Rodrigo Oliveira Lima, mas pode me chamar só de Rodrigo! Tenho 19 anos e sou de Salvador (BA) <br/><br/> Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Sou bastante criativo e apaixonado por tecnologia, você pode encontrar fragmentos dessa minha paixão analisando [meus repositórios](https://github.com/guaaxinim?tab=repositories) aqui no Github! <br/><br/> 🌐 Quer me conhecer melhor? <br/>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guaaxinim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guaaxinim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
+<p align="left">
+    <a href="https://www.instagram.com/rodrigoo_dev/" target="_blank">
+        <img 
+            alt="Perfil do Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/Siga%20me-CE4630?logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/rodrigo-oliveira-470668314/" target="_blank">
+        <img 
+            alt="Perfil do LinkedIn" 
+            title="Conect-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"
+        />
+    </a>
 </p>
+
