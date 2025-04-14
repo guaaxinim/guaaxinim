@@ -20,6 +20,8 @@
   />
 </div>
 
+<br/><br/><br/><br/>
+
 ### 🚀 Linguagens e Tecnologias
 
 <div style="display: inline_block">
