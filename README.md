@@ -1,4 +1,4 @@
-# 🇧🇷 Rodrigo Oliveira
+# `🇧🇷` Rodrigo Oliveira
 
 ♟️ **`Desenvolvedor FullStack`**
 
